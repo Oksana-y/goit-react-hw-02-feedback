@@ -1,0 +1,18 @@
+.messageBox{
+   display: block;
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+    min-height: 50px;
+    text-align: center;
+    background-color: wheat;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+
+}
+.message{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.63;
+    letter-spacing: 0.03em;
+    color: sienna;
+}
